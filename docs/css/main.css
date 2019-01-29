@@ -19,7 +19,7 @@ body {
 }
 
 #logo-img{
-	background: url('/images/rest-logo_large.png') no-repeat;
+	background: url('../images/rest-logo_large.png') no-repeat;
 	width: 150px;
 	height: 150px;
 	margin: 10px 15px 10px 0;
@@ -70,7 +70,7 @@ body {
 }
 
 #tel-num a{
-	text-align:right:
+	text-align:right;
 	padding-bottom:-15px;
 }
 
@@ -118,7 +118,7 @@ body {
 
 @media (min-width:1200px){
 	.container .jumbotron{
-		background: url('/../images/jumbo-1200.jpg') no-repeat;
+		background: url('../images/jumbo-1200.jpg') no-repeat;
 		height:752px;
 	}
 	
@@ -126,14 +126,14 @@ body {
 
 @media (min-width:992px) and (max-width:1199px){
 	.container .jumbotron{
-		background: url('/../images/jumbo-992.jpg') no-repeat;
+		background: url('../images/jumbo-992.jpg') no-repeat;
 		height:620px;
 	}
 }
 
 @media (min-width:768px) and (max-width:991px){
 	.container .jumbotron{
-		background: url('/../images/jumbo-768.jpg') no-repeat;
+		background: url('../images/jumbo-768.jpg') no-repeat;
 		height:480px;
 	}
 		
@@ -156,12 +156,12 @@ body {
 }
 
 #menu-tile{
-	background:url('/../images/menu-tile.jpg') no-repeat;
+	background:url('../images/menu-tile.jpg') no-repeat;
 	background-position:center;
 }
 
 #specials-tile{
-	background:url('/../images/specials-tile.jpg') no-repeat;
+	background:url('../images/specials-tile.jpg') no-repeat;
 	background-position:center;
 }
 
